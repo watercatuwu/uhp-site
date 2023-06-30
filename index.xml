@@ -306,9 +306,11 @@ Markdown?? # hugo使用的語法為markdown語法
 或是 說明文件
 另外也支援HTML，可以使用HTML語法做出更多文字、圖片效果
 需要即時預覽可以於 stackedit等網站進行編輯
-新增條目 # 存儲庫中文章的存放位置於/content/posts
-裡面有個文章範例資料夾，直接複製即可
-改好資料夾名稱後，於index.md中編輯
+新增條目 # 空白模板參考
+文章都位於/content/posts
+新增文章直接新增文件，名稱格式為文章名稱/index.md
+例如:兔姬/index.md
+資料夾內featured.png做為背景圖片以及預覽圖，留空則為預設背景
 --- title: &amp;#34;文章範例&amp;#34; &amp;lt;-- 網頁標題 date: 2023-06-29 &amp;lt;-- 編輯日期 draft: false &amp;lt;-- 草稿?</description></item><item><title>關於</title><link>https://usagi.xeift.tw/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://usagi.xeift.tw/about/</guid><description>關於兔百2.0 # 嗨我溺水貓，2.0不再依賴miraheze做為後端
 改為使用hugo生成靜態頁面去架設
 介面更現代美觀、速度也更快
