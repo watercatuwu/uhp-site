@@ -298,13 +298,12 @@ uwub</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url
 迫害名單 # 星夜
 兔姬老師
 香草きつね
-奶油貓</description></item><item><title>髒髒馬克斯</title><link>https://usagi.xeift.tw/posts/%E5%A7%AC%E5%8F%8B/%E9%AB%92%E9%AB%92%E9%A6%AC%E5%85%8B%E6%96%AF/</link><pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate><guid>https://usagi.xeift.tw/posts/%E5%A7%AC%E5%8F%8B/%E9%AB%92%E9%AB%92%E9%A6%AC%E5%85%8B%E6%96%AF/</guid><description>在某天深夜誤撥電話給迫害 並稱其為那個誰，於是被睡意滿滿的迫害錯字百出的寫進百科裡面(連名字也打錯了)</description></item><item><title>教學</title><link>https://usagi.xeift.tw/docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://usagi.xeift.tw/docs/</guid><description>新增、編輯條目教學 # Required # Github帳號 取得百科檔案 # 登入github帳號後，打開 兔百的存儲庫
-Fork兔百存儲庫
-創建自己的存儲庫
-Markdown?? # hugo使用的語法為markdown語法
+奶油貓</description></item><item><title>髒髒馬克斯</title><link>https://usagi.xeift.tw/posts/%E5%A7%AC%E5%8F%8B/%E9%AB%92%E9%AB%92%E9%A6%AC%E5%85%8B%E6%96%AF/</link><pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate><guid>https://usagi.xeift.tw/posts/%E5%A7%AC%E5%8F%8B/%E9%AB%92%E9%AB%92%E9%A6%AC%E5%85%8B%E6%96%AF/</guid><description>在某天深夜誤撥電話給迫害 並稱其為那個誰，於是被睡意滿滿的迫害錯字百出的寫進百科裡面(連名字也打錯了)</description></item><item><title>教學</title><link>https://usagi.xeift.tw/docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://usagi.xeift.tw/docs/</guid><description>新增、編輯 # 更新於2023.9.20
+Required # Github帳號 跟溺水貓取得存儲庫使用權(請洽Discord:@watercatuwu、Gmail:watercat0330@gmail.com)(Discord比較常看) Markdown?? # hugo使用的語法為markdown語法
+跟Discord聊天的文字效果邏輯類似
 詳細可以到 這篇文章
 或是 說明文件
-另外也支援HTML，可以使用HTML語法做出更多文字、圖片效果
+另外也支援HTML/CSS，會用的話能做出更多文字、圖片效果
 需要即時預覽可以於 stackedit等網站進行編輯
 新增條目 # 空白模板參考
 文章都位於/content/posts
